@@ -70,7 +70,6 @@ header {
   align-items: center;
   background: #ffffff;
   position: relative;
-  z-index: 99;
 }
 .hamburger {
   display: none;
